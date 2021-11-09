@@ -34,4 +34,5 @@ def search(password):
       if (outerlist+innerlist == password):
         print("found")
         return True, guesses
-  return False,guesses 
+  return False,guesses 1
+  
